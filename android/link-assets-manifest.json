@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/NotoSansNKoUnjoined-Bold.ttf",
+      "sha1": "04074f8c4a2177f552ebe550ab39eea92a7d6c0f"
+    },
+    {
+      "path": "assets/fonts/NotoSansNKoUnjoined-Medium.ttf",
+      "sha1": "6536d7fac50fca774a2b6c6b71dbbf3fe095f738"
+    },
+    {
+      "path": "assets/fonts/NotoSansNKoUnjoined-Regular.ttf",
+      "sha1": "5ee17ebcc11db0cb7866d525d8964297b62cbfab"
+    },
+    {
+      "path": "assets/fonts/NotoSansNKoUnjoined-SemiBold.ttf",
+      "sha1": "d8efcb77623ad91d0bf275843a02727144e20e41"
+    },
+    {
+      "path": "assets/fonts/Playfair.ttf",
+      "sha1": "e56ffe27d31f8d13499b8d3aa5f00fdfed15da0e"
+    },
+    {
+      "path": "assets/fonts/Playfair2.ttf",
+      "sha1": "72c45479fe155703447ddcde60289724b826d24d"
+    },
+    {
+      "path": "assets/fonts/Young.ttf",
+      "sha1": "42abd3af5eba4ecdc77ea1ff885ce4a4e941f1ae"
+    }
+  ]
+}
